@@ -1,4 +1,4 @@
-# Rukhlyada-Rukhlyada-Nadya_and_Katya.Spectral_properties_of_graphs
+# Nadya_and_Katya.Spectral_properties_of_graphs
 
 ## Техническая библиотека: коллекция алгоритмов на графах, основанных на спектральных свойствах
 
